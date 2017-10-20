@@ -1,6 +1,6 @@
 # Flink Forward 2017-09-11 & 13
 
-本库存的是Flink Forward San Francisco 11-13 Sep 2017的所有可下载的PPT资料。
+本库存的是Flink Forward berlin 11-13 Sep 2017的所有可下载的PPT资料。
 
 ![Flink Forward 2017-09-11 & 13](resources/FlinkForward201709.png)
 
